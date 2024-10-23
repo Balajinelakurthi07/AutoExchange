@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## The Complete Django & Python Developer Course
 
 <h1 align="center">Source Code - AutoMax</h1>
@@ -35,3 +36,7 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+=======
+# DriveMax
+ A Full Stack web application built with Django, HTML, CSS, and  JavaScript.
+>>>>>>> 412a3528d230637a01fe4c79dd282594d0143d5f
